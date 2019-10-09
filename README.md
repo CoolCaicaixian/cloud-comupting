@@ -38,7 +38,7 @@
 
 ## 实验二：
 
-### 1.基于腾讯云创建个人网站
+### [1.基于腾讯云创建个人网站](./Experiment2-wordpress/README.md)
 
  使用WordPress创建个人网站 
 
