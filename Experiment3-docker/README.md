@@ -144,7 +144,7 @@ docker version
 
 ###  2. 加载Docker的CentOS镜像
 
-### 参考： ◼ https://blog.csdn.net/llfjfz/article/details/98 596243
+### 参考： ◼ https://blog.csdn.net/llfjfz/article/details/98596243
 
 #### **（1）加载Docker镜像**
 
