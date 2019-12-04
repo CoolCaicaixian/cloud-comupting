@@ -38,9 +38,22 @@
 
 ## 实验二：
 
-### [1.基于腾讯云创建个人网站](./Experiment2-wordpress/README.md)
+### [基于腾讯云创建个人网站](./Experiment2-wordpress/README.md)
 
  使用WordPress创建个人网站 
 
   WordPress相关资源 
 
+
+
+------
+
+## 实验三：
+
+### [<u>Docker基础实验</u>](./Experiment3-docker/README.md)
+
+一：安装Docker
+
+二：完成Docker安装之后加载CentOS镜像，安装WordPress
+
+三:利用Dockerfile文件创建包含WordPress的镜像
