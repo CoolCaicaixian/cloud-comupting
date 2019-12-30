@@ -30,9 +30,9 @@
 
 ### [3.本地安装VMware Workstation和CentOS操作系统](./Experiment1/3.md)
 
- 自行安装VMware WorkStation ◼ 任何版本都行，视自己机器的配置而定，比如VMware WorkStation9，12，或者15都可，版本越高要求的机器配置越 高。 
+ 自行安装VMwareWorkStation ◼ 任何版本都行，视自己机器的配置而定，比如VMware WorkStation9，12，或者15都可，版本越高要求的机器配置越 高。 
 
- 在VMware WorkStation安装CentOS操作系统 
+ 在VMwareWorkStation安装CentOS操作系统 
 
 ------
 
@@ -42,7 +42,7 @@
 
  使用WordPress创建个人网站 
 
-  WordPress相关资源 
+ WordPress相关资源 
 
 
 
@@ -52,8 +52,14 @@
 
 ### [<u>Docker基础实验</u>](./Experiment3-docker/README.md)
 
-一：安装Docker
+安装Docker
 
-二：完成Docker安装之后加载CentOS镜像，安装WordPress
+完成Docker安装之后加载CentOS镜像，安装WordPress
 
-三:利用Dockerfile文件创建包含WordPress的镜像
+利用Dockerfile文件创建包含WordPress的镜像
+
+------
+
+## 实验四：
+
+### [<u>Ceph的安装与实践</u>](./Experiment4-Ceph的安装与实践/README.md)
